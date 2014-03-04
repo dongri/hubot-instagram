@@ -1,0 +1,20 @@
+{
+  "name": "hubot-instagram",
+  "version": "0.0.6",
+  "author": "Dongri Jin <dongriab@gmail.com>",
+  "description": "Instagram adapter for Hubot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dongri/hubot-instagram.git"
+  },
+  "keywords": [
+    "hubot",
+    "instagram",
+    "photo"
+  ],
+  "dependencies" : {
+    "underscore": "1.6.0"
+  },
+  "license": "MIT",
+  "main": "src/hubot-instagram"
+}
