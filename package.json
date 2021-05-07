@@ -12,8 +12,8 @@
     "instagram",
     "photo"
   ],
-  "dependencies" : {
-    "underscore": "1.6.0"
+  "dependencies": {
+    "underscore": ">=1.12.1"
   },
   "license": "MIT",
   "main": "src/hubot-instagram"
